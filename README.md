@@ -345,6 +345,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
   * Go-fastdfs GetClientIp 未授权访问漏洞
   * Go-fastdfs upload 任意文件上传漏洞 CVE-2023-1800
   * Gogs 任意用户登录漏洞 CVE-2018-18925
+  * Gogs 符号链接导致远程命令注入漏洞 CVE-2025-8110
   * Grafana 8.x 插件模块目录穿越漏洞 CVE-2021-43798
   * Grafana mysql 后台任意文件读取漏洞 CVE-2019-19499
   * Grafana SQL 表达式远程代码执行漏洞 CVE-2024-9264
